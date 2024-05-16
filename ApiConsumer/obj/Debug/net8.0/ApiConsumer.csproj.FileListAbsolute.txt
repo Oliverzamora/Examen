@@ -1,0 +1,12 @@
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\bin\Debug\net8.0\ApiConsumer.deps.json
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\bin\Debug\net8.0\ApiConsumer.dll
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\bin\Debug\net8.0\ApiConsumer.pdb
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\ApiConsumer.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\ApiConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\ApiConsumer.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\ApiConsumer.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\ApiConsumer.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\ApiConsumer.dll
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\refint\ApiConsumer.dll
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\ApiConsumer.pdb
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Debug\net8.0\ref\ApiConsumer.dll

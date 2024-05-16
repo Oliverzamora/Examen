@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNx0H6VppNzjA361obpn8dES2c0SCcJ53u4Aj34r7D7zdw5r8ukwmttqUQJRRTLGMOBnn2Ey/6aSn7rB5ujxJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olive\\OneDrive\\Documentos\\periodo actual\\Moviles\\ExamenPrimerParcial\\ApiConsumer\\ApiConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

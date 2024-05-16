@@ -1,0 +1,24 @@
+C:\Users\olive\source\repos\ApiConsumer\bin\Release\net8.0\ApiConsumer.deps.json
+C:\Users\olive\source\repos\ApiConsumer\bin\Release\net8.0\ApiConsumer.dll
+C:\Users\olive\source\repos\ApiConsumer\bin\Release\net8.0\ApiConsumer.pdb
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\ApiConsumer.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\ApiConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\ApiConsumer.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\ApiConsumer.AssemblyInfo.cs
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\ApiConsumer.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\ApiConsumer.dll
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\refint\ApiConsumer.dll
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\ApiConsumer.pdb
+C:\Users\olive\source\repos\ApiConsumer\obj\Release\net8.0\ref\ApiConsumer.dll
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\bin\Release\net8.0\ApiConsumer.deps.json
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\bin\Release\net8.0\ApiConsumer.dll
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\bin\Release\net8.0\ApiConsumer.pdb
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\ApiConsumer.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\ApiConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\ApiConsumer.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\ApiConsumer.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\ApiConsumer.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\ApiConsumer.dll
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\refint\ApiConsumer.dll
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\ApiConsumer.pdb
+C:\Users\olive\OneDrive\Documentos\periodo actual\Moviles\ExamenPrimerParcial\ApiConsumer\obj\Release\net8.0\ref\ApiConsumer.dll
